@@ -22,4 +22,4 @@ function back(){
     }
 };
 
-setInterval(next, 1000);
+// setInterval(next, 1000);
